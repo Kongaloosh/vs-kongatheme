@@ -1,0 +1,21 @@
+{
+  "name": "kongaloosh",
+  "displayName": "kokubo",
+  "description": "A theme inspired by Takashi Kokubo's music.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "kokubo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kokubo-color-theme.json"
+      }
+    ]
+  }
+}
